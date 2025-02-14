@@ -77,14 +77,14 @@ The key findings from our analysis:
 | **All Users (Including Non-Purchasers)** | **+25** | PLUS membership is associated with higher spending when considering all users, even those who didn’t purchase. |
 | **Only Users Who Made a Purchase in That Month** | **Negative Effect (~ -8)** | Among active buyers, PLUS members actually spend less compared to active non-PLUS users. |
 
-##*Possible Explanations for the Negative Effect:*
+## *Possible Explanations for the Negative Effect:*
 
 1. There might be hidden confounders (e.g., income level, shopping frequency) that were not included in the model.
 If high-income shoppers tend to not subscribe to PLUS but spend more, this could bias the results.
 
-2. This data is just for one month, so if the regular frequency of purchasing from JD.com is more than 30 month we are losing an important of data by just looking at one month.
+2. This data is only for one month, so if the regular frequency of purchasing from JD.com is more than 30 months, we are losing important data by only looking at one month.
 
-##*Possible Explanation for the Positive Effect on all Users:*
+## *Possible Explanation for the Positive Effect on all Users:*
 
 PLUS users may tend to purchase in smaller baskets but with higher frequency. Since delivery costs are not an issue for them and they have access to exclusive deals, their shopping behavior might shift—they no longer wait to reach a minimum order value before making a purchase. Instead, they may place more frequent, smaller orders.
 
